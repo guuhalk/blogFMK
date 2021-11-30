@@ -1,0 +1,38 @@
+.grid-form{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.grid-form-input{
+    width: 40%;
+    margin-top: 5% !important;
+}
+
+.grid-form-list{
+    margin-top: 2% !important;
+    margin-left: 3% !important;;
+
+}
+
+.grid-form-area{
+    width: 50%;
+    margin-top: 5% !important;;
+    margin-left: 5% !important;;
+}
+.container-button{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 5% 5% 0% 0% ;
+}  
+
+.container-link{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 5% 5% 0% 0% ;
+}  
+
+.inp-img{
+    margin-top: 6%;
+}

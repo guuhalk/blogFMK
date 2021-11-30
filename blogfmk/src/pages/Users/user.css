@@ -1,0 +1,59 @@
+.main-container{
+    margin: 3% 5% 3% 5%;
+}
+
+.grid-form{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.grid-form-linha1{
+    width: 30%;
+    margin-top: 5% !important;
+    margin-left: 2% !important;;
+
+}
+
+.grid-form-list{
+    margin-top: 2% !important;
+    margin-left: 3% !important;;
+
+}
+
+.grid-form-linha2{
+    width: 94%;
+    margin-top: 3% !important;
+    margin-left: 2% !important;
+
+}
+
+.grid-form-linha3{
+    width: 94%;
+    margin-top: 3% !important;
+    margin-left: 2% !important;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+
+}
+
+.status{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+
+
+.container-button{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 5% 5% 0% 0% ;
+}  
+
+.container-link{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 5% 5% 0% 0% ;
+}  

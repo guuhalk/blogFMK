@@ -1,0 +1,56 @@
+.container {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+}
+
+.container .containerEsquerda {
+  width: 40%;
+  height: 100%;
+  background-color: #613374;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.containerEsquerda img {
+    width: 60%;
+}
+
+.container .containerDireita {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 15% 0%;
+    
+}
+
+.inpPassword{
+    margin: 0% 0% 20% 0% !important;
+}
+
+.buttonStyle{
+    background: #613374 !important;
+}
+
+.link{
+    text-decoration: none;
+    text-align: center;
+    margin-top: 10%;
+}
+
+
+
